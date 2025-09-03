@@ -3,7 +3,9 @@
 This project demonstrates the application of Low-Level Design (LLD) principles, Java OOP concepts, SOLID design principles, and design patterns.
 
 The case study used here is Tic-Tac-Toe, which serves as a familiar problem domain to illustrate how requirements can be translated into UML models, classes, and responsibilities before implementation.
+
 <img width="217" height="213" alt="{712EE224-7AAB-440F-93DB-9F7D8CDDBE40}" src="https://github.com/user-attachments/assets/d5e8785a-c0ed-43a3-9c29-d5163400579c" />
+
 🔎 General Concepts
 🔹 Object-Oriented Programming (OOP) in Java
 
