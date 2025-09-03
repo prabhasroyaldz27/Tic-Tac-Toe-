@@ -1,0 +1,11 @@
+Use Cases
+
+Start Game – User initializes a Tic-Tac-Toe board with size N×N.
+
+Make a Move – A player places their symbol (X or O) on an available cell.
+
+Check for Win/Draw – After every move, the system checks for a winning condition (vertical or horizontal only) or draw.
+
+Notify Opponent – Once a player makes a move, the system sends an in-app notification to the other player.
+
+End Game – System declares the winner or announces a draw.
