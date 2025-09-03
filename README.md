@@ -9,6 +9,7 @@ The case study used here is Tic-Tac-Toe, which serves as a familiar problem doma
 🔎 General Concepts
 
 🔹 Object-Oriented Programming (OOP) in Java
+
 Encapsulation → grouping attributes & methods inside classes (e.g., Board, Player).
 
 Abstraction → exposing only essential behavior (e.g., makeMove() without revealing internals).
