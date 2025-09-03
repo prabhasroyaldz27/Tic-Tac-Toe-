@@ -1,0 +1,14 @@
+Requirement Analysis
+Functional Requirements
+
+Scalable Board – Instead of the standard 3×3 grid, the game should support an N×N board.
+
+Winning Rules –
+
+A player wins if they form the same pattern vertically or horizontally.
+
+Diagonal wins are not allowed (custom constraint).
+
+Draw Condition – If no winning condition is met and all cells are filled, the match is declared a draw.
+
+Player Notification – When Player 1 places a symbol (e.g., O), the system should notify Player 2 of the move (simulated as in-app notification).
