@@ -1,0 +1,34 @@
+NVT (Noun–Verb Technique)
+
+From the use cases, we apply the Noun–Verb Technique (NVT) to extract key nouns as candidate classes/objects and verbs as candidate methods/operations. 
+This helps in systematically bridging requirement analysis with UML modeling and class design.
+
+Nouns → Candidate Classes
+
+Game
+
+Board
+
+Cell
+
+Player
+
+Move
+
+Notifier
+
+RuleChecker
+
+Verbs → Candidate Methods
+
+startGame() – initialize the game with board size
+
+makeMove() – place X or O on the board
+
+checkWinner() – verify vertical or horizontal win
+
+checkDraw() – verify if the board is full without winner
+
+notifyOpponent() – send notification to the other player
+
+endGame() – declare result (winner/draw)
