@@ -1,5 +1,5 @@
 UML Class Diagram 
-
+![UML](https://github.com/user-attachments/assets/a22fbd7f-1b46-448d-a601-6d95d14ded27)
 Game → Central controller that manages players, board, rules, and notifications.
 
 Board → Maintains the grid state and provides operations for marking and displaying cells.
